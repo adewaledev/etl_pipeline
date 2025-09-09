@@ -23,4 +23,4 @@ else
 fi
 
 # Let the user know the operation has ended
-echo "Operation Complete!"
+echo "Load Operation Complete!"
