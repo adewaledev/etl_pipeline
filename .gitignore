@@ -1,0 +1,10 @@
+# Ignore environment variables
+bash_script/.env
+
+# Ignore csv folders
+bash_script/Gold
+bash_script/json_and_csv
+bash_script/posey
+bash_script/raw_json_csv
+bash_script/transformed
+bash_script/raw
